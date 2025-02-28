@@ -1,6 +1,6 @@
 # Bitcoin_Martix_Scroller with cz news and fixed Bitcoin price 
  build from Marquee weather 2.13
-# Marquee Scroller (Clock, Weather, News, and More)
+## Marquee Scroller (Clock, Weather, News, and More)
 
 ## Features include:
 * Accurate Clock refresh off Internet Time Servers
